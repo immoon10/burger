@@ -1,0 +1,235 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bebas+Neue&display=swap');
+/*======= defult css start======*/
+.section-padding{
+  padding: 70px 0;
+}
+/*======= defult css end======*/
+
+
+/*======= home css start======*/
+.nav-bg{
+  background: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(../img/home/home.png);
+  width: 100%;
+}
+
+.menu-list li a{
+  font-size: 21px;
+  font-family: Bebas Neue;
+  color: #3d2514 !important;
+  font-weight: 700;
+  letter-spacing: 3px;
+  
+}
+
+.burger-section{
+  background: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(../img/home/home.png);
+  width: 100%;
+  height: 600px;
+}
+.burger-details h3{
+  font-size: 24px;
+    color: #3d2514;
+    font-family: Bebas Neue;
+    font-weight: 400;
+}
+
+.burger-details{
+  padding: 163px 0;
+}
+
+.burger-details h1{
+  color: #3d2514;
+  font-size: 110px;
+  font-family: Alfa Slab One;
+  text-transform: uppercase;
+}
+.burger-details h2{
+  color: #3d2514;
+    font-size: 56px;
+    font-family: Alfa Slab One;
+    text-transform: uppercase;
+}
+
+
+.food-price {
+  background: url(../img/body/price.png);
+  width: 174px;
+  height: 174px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.burger-img h3{
+  font-family: Bebas Neue;
+  color: #fff;
+  font-size: 70px;
+  line-height: 40px;
+}
+
+.food-price h3 span {
+  font-size: 30px;
+}
+
+.food-price h4 {
+  font-family: 'BEBAS NEUE';
+  color: #fff;
+  font-size: 33px;
+  letter-spacing: 4px;
+}
+
+
+.burger-img{
+  position: relative;
+}
+
+.food-price{
+  position: absolute;
+  bottom: 0;
+}
+/*******== burger-item-start ==*******/
+
+.burger-item-details{
+  background-image: url(../img/burger-item-details/big.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 417px;
+  border-radius: 15px;
+}
+.burger-item-details h4{
+  color: #fff;
+    font-family: 'Bebas Neue';
+    font-size: 25px;
+    line-height: 10px;
+    padding: 40px 30px 0;
+  
+}
+
+.burger-item-details h2{
+  color: #fff;
+    font-family: 'Bebas Neue';
+    font-size: 42px;
+    padding-left: 30px;
+}
+
+.small-burger{
+  background-image: url(../img/burger-item-details/sm/02.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 46px;
+  border-radius: 15px;
+
+}
+
+.small-burger-sm{
+  background-image: url(../img/burger-item-details/sm/01.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  padding: 50px;
+  border-radius: 15px;
+}
+
+.small-burger h2{
+  color: #fff;
+  font-family: 'Bebas Neue';
+  font-size: 42px;
+}
+
+.small-burger h4{
+  color: #fff;
+    font-family: 'Bebas Neue';
+    font-size: 25px;
+    line-height: 10px;
+}
+
+.small-burger-sm h4{
+  color: #fff;
+  font-family: 'Bebas Neue';
+  font-size: 25px;
+  line-height: 10px;
+}
+
+.small-burger-sm h2{
+  color: #fff;
+  font-family: 'Bebas Neue';
+  font-size: 42px;
+}
+
+/****** choose-enjoy ******/
+.choose-enjoy{
+  text-align: center;
+}
+
+.choose-enjoy h3{
+  background: #ffc045;
+  width: 240px;
+  color: #3d2514;
+  font-family: 'Bebas Neue';
+  height: 40px;
+  line-height: 44px;
+  margin: 0 auto;
+  border-radius: 5px;
+ 
+}
+
+.choose-enjoy h2{
+  color: #3d2514;
+  font-size: 60px;
+  font-family: 'Alfa Slab One';
+  line-height: 80px;
+  text-transform: capitalize;
+  padding-top: 15px;
+}
+
+.choose-enjoy p{
+  font-size: 17px;
+  color: #3d2514;
+}
+.burger-single-item{
+  background: #fff;
+}
+
+.single-img a img{
+  width: 100%;
+  height: 300px;
+}
+
+.single-burger-list{
+  text-align: center;
+}
+
+.single-burger-list h2{
+  color: #3d2514;
+  font-size: 38px;
+  font-family: 'Bebas Neue';
+  padding-top: 40px;
+  
+}
+
+.single-burger-list p{
+  color: #3d2514;
+  font-size: 17px;
+}
+
+.btn{
+  background: #ff0000;
+  color: #fff;
+  font-family: 'Alfa Slab One';
+  font-size: 15px;
+  text-transform: uppercase;
+  padding: 15px;
+}
+
+
+
+
+/*======= home css end======*/
